@@ -1,0 +1,28 @@
+name: Stunning Pictures
+favicon: null
+layout_spectrum: 0.542964985826984
+typography_spectrum: 0.5877586440183222
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.34130633319728076
+  lightness: 0.6805317644029856
+  saturation: 0.9908996624872088
+  rhythmicContrast: 0.9429926371667534
+purpose: []
